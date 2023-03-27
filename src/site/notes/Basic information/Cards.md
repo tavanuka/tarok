@@ -74,4 +74,17 @@ The point values of the cards are as follows:
 | Jacks                                 | 2 point      |
 | All other cards                  | 1 point      |
 
+The **total pack value** comes to **70 card points.**
+
+## Card interaction rules
+During the play, sequence of which cards are laid into the [[Glossary#^211dba\|trick]] **matters.** The **initial** card put must be followed by the same type by every other play. If the player does not have that type of the card, they can put another one.
+
+***example:***
+- A player plays a King of hearts. You do not have any heart cards, so you play the Tarok.
+	- **IF** you do not have a tarok, you are allowed to put any other card that you would like.
+
+When playing colours, the **highest hierarchical card** of the **initial colour** wins the trick. However, a trump card if played will win the trick.
+	If multiple taroks are played where the initial card is a colour, the highest tarok will win the trick.
+
+
 
