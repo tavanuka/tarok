@@ -9,3 +9,5 @@
 ## Basic Information
 - [[Basic information/Fundamentals of the game\|Fundamentals of the game]]
 	- [[Basic information/Cards\|Cards]]
+	- [[Basic information/Counting\|Counting]]
+****
