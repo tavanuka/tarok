@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/sources/"}
 ---
 
+# Sources
 ## Original articles, websites and documents:
 
 - [Pagat.com - English documentation of the game](https://www.pagat.com/tarot/sltarok.html)
