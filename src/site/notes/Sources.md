@@ -22,3 +22,4 @@
 
 - [1](https://www.pagat.com/tarot/counting.html#grouping:~:text=When%20counting%20in,of%20the%20pile.)
 - [2](https://www.pagat.com/tarot/counting.html#grouping:~:text=and%20subtract%20two.-,Examples)
+- [3](https://www.pagat.com/tarot/counting.html#:~:text=When%20cards%20are%20counted%20in%20threes%2C%20an%20incomplete%20group%20can%20contain%20one%20or%20two%20cards)
