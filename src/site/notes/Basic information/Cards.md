@@ -10,6 +10,8 @@ Tarok is played with a [[set_of_cards.jpg|specific set of cards]] - consisting o
 	-  škis (22nd Tarok - has no roman number)
 	-  Mond (XXII Tarok - highest tarok after škis)
 	-  Frula (I Tarok - lowest tarok)
+{ #0809c1}
+
 - Coloured *(32 cards)*
 	- Hearts
 	- Diamonds
