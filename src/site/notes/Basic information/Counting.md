@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/basic-information/counting/"}
 ---
 
+# Counting
 As per game, one to win must count their cards. Tarok has multiple ways that seem complicated. For that, we will use the most common (which is the easiest) one used by Slovene Tarok players.
 
 ## Card Grouping
