@@ -15,6 +15,8 @@ The game can be played from 2 up to 4 people. Where 2 player game has a differen
 Tarok is a gathering game meant to have fun playing it.
 Technically, Tarok is a point trick game with bidding. The cards have values; players bid to decide who will be declarer; then tricks are played and the declarer's side wins if they take more than half the card points. In some contracts declarer can choose a partner by specifying a king.
 
+The winner is the one, who was able to gather **at least 35 points** out of 70 possible ones.
+
 
 
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/basic-information/cards/#cards" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
@@ -91,10 +93,24 @@ The point values of the cards are as follows:
 | Jacks                                 | 2 point      |
 | All other cards                  | 1 point      |
 
+The **total pack value** comes to **70 card points.**
+
+## Card interaction rules
+During the play, sequence of which cards are laid into the [[Glossary#^211dba\|trick]] **matters.** The **initial** card put must be followed by the same type by every other play. If the player does not have that type of the card, they can put another one.
+
+***example:***
+- A player plays a King of hearts. You do not have any heart cards, so you play the Tarok.
+	- **IF** you do not have a tarok, you are allowed to put any other card that you would like.
+
+When playing colours, the **highest hierarchical card** of the **initial colour** wins the trick. However, a trump card if played will win the trick.
+	If multiple taroks are played where the initial card is a colour, the highest tarok will win the trick.
+
+
 
 
 
 </div></div>
+
 
 
 
