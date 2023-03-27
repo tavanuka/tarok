@@ -12,11 +12,22 @@ When counting in groups, it does not matter how the cards are arranged into grou
 
 ## Counting by subtraction
 Players count their [[Glossary#^211dba\|tricks]] by **summing the total score of the trick, minus 2.**
-example: 
+***example:*** 
 -   a group of three empty cards is worth one point (1 + 1 + 1 - 2)
 -   a king plus two empty cards is worth 5 points (5 + 1 + 1 - 2)
 -   a king, a queen and an empty card are worth 8 points (5 + 4 + 1 - 2)
 -   three riders are worth 7 points (3 + 3 + 3 - 2)  *[[Sources#Counting\|2]]*
 
 ## Incomplete Groups
+Often enough it can happen that you are left with an odd amount of cards. Those are usually either **two odd cards** or **one odd card.**
+ >When cards are counted in **threes**, an incomplete group can contain one or two cards. [[Sources#Counting\|3]]
 
+The odd trick(s) are then counted by **subtracting only minus 1.**
+ ***example:***
+ - a pair (two) of [[Glossary#^f40004\|empty cards]] is worth one point (1 + 1 - 1)
+ - an empty card with a [[Basic information/Cards#^0809c1\|Frula]] is worth 5 points (1 + 5 - 1)
+ - a single Caval is worth 2 points (3 -1)
+ - a single empty card is worth nothing (1 - 1)
+
+## Other counting methods
+There are other counting methods that can also be applied when playing Tarok. For more information, read more about 
