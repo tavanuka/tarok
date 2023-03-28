@@ -4,7 +4,7 @@
 
 # Counting
 As per game, one to win must count their cards. Tarok has multiple ways that seem complicated. For that, we will use the most common (which is the easiest) one used by Slovene Tarok players.
-{ #52b2e3}
+{ #5da3f3}
 
 
 ## Card Grouping
@@ -22,7 +22,7 @@ Players count their [[Glossary#^211dba\|tricks]] by **summing the total score of
 
 ## Incomplete Groups
 Often enough it can happen that you are left with an odd amount of cards. Those are usually either **two odd cards** or **one odd card.**
- >When cards are counted in **threes**, an incomplete group can contain one or two cards. [[Sources#^e48305\|3]]
+ >When cards are counted in **threes**, an incomplete group can contain one or two cards. [[Sources^\|3]]
 
 The odd trick(s) are then counted by **subtracting only minus 1.**
  ***example:***
