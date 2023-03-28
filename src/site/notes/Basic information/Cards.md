@@ -3,6 +3,7 @@
 ---
 
 # Cards
+![set_of_cards.jpg](/img/user/Resources/set_of_cards.jpg)
 Tarok is played with a [[set_of_cards.jpg|specific set of cards]] - consisting of 54 cards in total, as follows:
 
 - Tarok(s) *(22 cards)*
@@ -22,7 +23,7 @@ Tarok is played with a [[set_of_cards.jpg|specific set of cards]] - consisting o
 Taroks consist of 22 cards that are often also called **trumps.** They are numbered from 1 to 21, where the 22nd has no numeric indication.
 The numbers represent it's trump cards **strength** and **hierarchy.**  Higher the number, stronger the card.
 
-**The three (Škis, Mond, Frula) trump cards are called [[Trula\|Trula]].**
+**The three (Škis, Mond, Frula) trump cards are called [[Glossary#^4575db\|Trula]].**
 
 ##### Škis
 ![s.jpg|Škis](/img/user/Resources/s.jpg)
