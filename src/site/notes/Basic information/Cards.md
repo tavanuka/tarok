@@ -3,8 +3,8 @@
 ---
 
 # Cards
-![set_of_cards.jpg](/img/user/Resources/set_of_cards.jpg)
-Tarok is played with a [specific set of cards](obsidian://open?vault=Tarok&file=Resources%2Fset_of_cards.jpg) - consisting of 54 cards in total, as follows:
+## Card composition
+Tarok is played with a [specific set of cards](https://cdn.discordapp.com/attachments/798337727928991764/1090156916312916028/set_of_cards.jpg) - consisting of 54 cards in total, as follows:
 
 - Tarok(s) *(22 cards)*
 	*The following taroks are of special significance:*
@@ -36,7 +36,6 @@ The Mond is the **second highest**, 21st trump card.
 ##### Additional Rules for the Mond card
 1. [[Captured Mond\|Captured Mond]] *(applied for [[normal contracts\|normal contracts]])*
 
-
 ##### Frula (Pagat)
 ![i.jpg|Frula](/img/user/Resources/i.jpg)
 Frula *(English name Pagat)* is the **lowest,** 1st trump card.
@@ -55,15 +54,15 @@ Face cards consist of (in order of hierarchy):
 The Caval and the Jack are fairly similar in design, but are distinguishable by the fact that **the Caval is always riding a horse** on the face card, where **the Jack is not.**
 
 ![sk.jpg|Spade King](/img/user/Resources/sk.jpg) ![hq.jpg|Heart Queen](/img/user/Resources/hq.jpg) ![cc.jpg|Club Caval](/img/user/Resources/cc.jpg) ![dj.jpg|Diamond Jack](/img/user/Resources/dj.jpg)
-
-## Card Hierarchy
+****
+# Card Hierarchy
 Each colour has **the same face card hierarchy**, but the **numeral card hierarchy varies.**
 - Red  - King, Queen, Caval, Jack, **1, 2, 3, 4**
 - Black - King, Queen, Caval, Jack, **10, 9, 8, 7**
 
 the **key variation** is that the **red** colour have inversed numeral card value, where by the **black** colour it applies the same principle as in many other card games - if the player is familiar with them.
 
-## Card values
+# Card values
 In Tarok, each card has a point value and at first glance complex [[Basic information/Counting\|counting]]. 
 The point values of the cards are as follows:
 | Card                                  | Value (Each) |
@@ -77,7 +76,9 @@ The point values of the cards are as follows:
 
 The **total pack value** comes to **70 card points.**
 
-## Card interaction rules
+The valuable cards are the picture cards in the suits, the 1 and 21 of trumps and the fool. The remaining cards - the 2 to 20 of trumps and the numeral cards in the four suits - are hereafter called **empty cards**. [[Sources#^fab7cb]|1]
+
+# Card interaction rules
 During the play, sequence of which cards are laid into the [[Glossary#^211dba\|trick]] **matters.** The **initial** card put must be followed by the same type by every other play. If the player does not have that type of the card, they can put another one.
 
 ***example:***
@@ -85,7 +86,10 @@ During the play, sequence of which cards are laid into the [[Glossary#^211dba\|t
 	- **IF** you do not have a tarok, you are allowed to put any other card that you would like.
 
 When playing colours, the **highest hierarchical card** of the **initial colour** wins the trick. However, a trump card if played will win the trick.
-	If multiple taroks are played where the initial card is a colour, the highest tarok will win the trick.
+If multiple taroks are played where the initial card is a colour, the highest tarok will win the trick.
+
+ Skis > Taroks > Face cards > numeral cards
+ 
 
 
 
