@@ -4,7 +4,7 @@
 
 # Cards
 ![set_of_cards.jpg](/img/user/Resources/set_of_cards.jpg)
-Tarok is played with a [[set_of_cards.jpg|specific set of cards]] - consisting of 54 cards in total, as follows:
+Tarok is played with a [specific set of cards](obsidian://open?vault=Tarok&file=Resources%2Fset_of_cards.jpg) - consisting of 54 cards in total, as follows:
 
 - Tarok(s) *(22 cards)*
 	*The following taroks are of special significance:*
