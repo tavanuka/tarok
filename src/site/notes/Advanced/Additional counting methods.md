@@ -3,13 +3,13 @@
 ---
 
 # Additional counting methods
-This section is an extraction of [Counting from pagat.com.](https://www.pagat.com/tarot/counting.html)
+*This section is an extraction of [Counting from pagat.com.](https://www.pagat.com/tarot/counting.html)*
 
 ## Adding a point for each trick (or group)
 
 This is the easiest method to understand, and was certainly the original method. However it is not the fastest, so you will probably prefer to use one of the other methods once the principle is understood.
 
-For this method, the **reduced values** of the cards are used. You simply add up the values of all your cards and then add **one extra point for each group**. ([Incomplete groups](https://www.pagat.com/tarot/counting.html#incomplete) are discussed below.)
+For this method, the **reduced values** of the cards are used. You simply add up the values of all your cards and then add **one extra point for each group**. (see [[Basic information/Counting#Incomplete Groups\|Incomplete Groups]].)
 
 Using this method it clearly does not matter which cards you put into which groups - the number of groups and the total of the card values remain the same.
 
