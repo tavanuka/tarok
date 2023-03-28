@@ -45,7 +45,7 @@ Please head over to the [[Basic information/Cards\|Cards]] page for full explana
 
 ## Counting
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/basic-information/counting/#52b2e3" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/basic-information/counting/#5da3f3" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
 
@@ -55,3 +55,55 @@ As per game, one to win must count their cards. Tarok has multiple ways that see
 
 
 Please head over to the [[Basic information/Counting\|Counting]] page for full explanation of the counting system.
+****
+# Gameplay
+When playing tarok, the [[Basic information/Fundamentals of the game#Three player\|Three player game]] is the most common way to play cards.
+In this section, we will describe each player count game and its procedure.
+
+## Two player game
+*In this game, the players do not use a [[Glossary#^786107\|Talon]], but 6 piles of cards that contain 4 cards each.*
+
+Players can either choose or play for who will be the dealer. Rock paper scissors, or drawing the top card to determine who has the highest value.
+When the dealer is chosen, he deals each person **3 sets of 5 cards.** The first set gets the player, and not the dealer. *(Player > dealer > player etc.)* 
+
+The rest of the cards are dealt into **6 piles, where each contains 4 cards.** Each player gets **three of the six piles.** The Piles have to be **cover card facing up**.
+
+When the cards are set, the **bidding phase** can start.
+Here, the player who was dealt has the right of way. They have a choice between:
+- Playing
+- Passing
+
+### Bidding to play on first turn
+If the first player decided to bid **play,** they are **obligated to win and get at least 36 points.** if they **win,** their points are doubled. However, **losing** *(not getting at least 36 points)* the achieved points are **tripled,** and counted as **minus points.**
+
+>***note:*** *the points that player has achieved is the difference of 35.* 
+*Formula: **n - 35** (i.e. 44 - 35 = 9)*
+*if the player has not achieved the threshold, the total sum is tripled.*
+*Formula: **n** $\times$ 3*
+
+### Passing
+If the first player decides to pass, the **dealers** has the same options as [[Basic information/Fundamentals of the game#Bidding to play on first turn\|mentioned above]].
+if the dealer also decides to **pass,** a normal game without any specific rules is played out.
+The winner is whoever achieves at least 35 points.
+
+>The worth of the points is unified. **no formula applies here.**
+
+### Playing phase
+After bidding concludes, both players turn **the first cards of their 3 piles around.**
+If any of those cards are either a **Kind or a tarok,** the player is **allowed** to take them into their hand, and turn around the next card. 
+
+>*If any further card is either of the mentioned cards above, the player can take them in the following turn.*
+
+The first player has the right of play. Its played out as any other game.
+
+### Pile cards
+Pile cards serve as an extension of the hand, that can be seen by the opponent.
+They can only be played, if the opponent has played a card. 
+Once the pile card has been played, the player has to turn around the new card of the pile. 
+**If the card is a king or a tarok, they are allowed to take it into the hand and turn around the next card.**
+
+>you are not allowed to play the first card out of the pile, **unless you have no cards left in your hand.**
+
+
+
+## Three player game
