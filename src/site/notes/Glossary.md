@@ -7,6 +7,8 @@
 { #211dba}
 
 2. Talon - *the deck of six cards dealt by the dealer facing down*
+{ #786107}
+
 3. Empty cards - *all taroks from 20 to 2, and every numeral colour card*
 { #f40004}
 
