@@ -5,6 +5,7 @@
 # Cards
 ## Card composition
 Tarok is played with a [specific set of cards](https://cdn.discordapp.com/attachments/798337727928991764/1090156916312916028/set_of_cards.jpg) - consisting of 54 cards in total, as follows:
+[[set_of_cards.jpg]]
 
 - Tarok(s) *(22 cards)*
 	*The following taroks are of special significance:*
