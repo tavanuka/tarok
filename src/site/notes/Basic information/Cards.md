@@ -5,7 +5,6 @@
 # Cards
 ## Card composition
 Tarok is played with a [specific set of cards](https://cdn.discordapp.com/attachments/798337727928991764/1090156916312916028/set_of_cards.jpg) - consisting of 54 cards in total, as follows:
-[[set_of_cards.jpg]]
 
 - Tarok(s) *(22 cards)*
 	*The following taroks are of special significance:*
@@ -77,7 +76,7 @@ The point values of the cards are as follows:
 
 The **total pack value** comes to **70 card points.**
 
-The valuable cards are the picture cards in the suits, the 1 and 21 of trumps and the fool. The remaining cards - the 2 to 20 of trumps and the numeral cards in the four suits - are hereafter called **empty cards**. [[Sources#^fab7cb]|1]
+The valuable cards are the picture cards in the suits, the 1 and 21 of trumps and the fool. The remaining cards - the 2 to 20 of trumps and the numeral cards in the four suits - are hereafter called **empty cards**. [[Sources#^fab7cb\|1]]
 
 # Card interaction rules
 During the play, sequence of which cards are laid into the [[Glossary#^211dba\|trick]] **matters.** The **initial** card put must be followed by the same type by every other play. If the player does not have that type of the card, they can put another one.
