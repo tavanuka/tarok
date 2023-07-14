@@ -31,5 +31,6 @@ The odd trick(s) are then counted by **subtracting only minus 1.**
  - a single Caval is worth 2 points (3 -1)
  - a single empty card is worth nothing (1 - 1)
 
+
 ## Other counting methods
 There are other counting methods that can also be applied when playing Tarok. For more information, read more about them here: [[Advanced/Additional counting methods\|Additional counting methods]]
