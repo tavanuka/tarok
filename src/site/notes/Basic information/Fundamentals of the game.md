@@ -55,10 +55,53 @@ As per game, one to win must count their cards. Tarok has multiple ways that see
 
 
 Please head over to the [[Basic information/Counting\|Counting]] page for full explanation of the counting system.
+
+
 ****
 # Gameplay
 When playing tarok, the [[Basic information/Fundamentals of the game#Three player\|Three player game]] is the most common way to play cards.
 In this section, we will describe each player count game and its procedure.
+
+## Scoring
+Before diving into gameplay, **scoring is a fundamental concept** one should understand before getting into playing with more people. Only winning is not enough.
+
+A player can either win, lose, or gain nothing when scoring. All of that is determined on what they play (either two player game or more), and what [[Basic information/Contracts/Contracts\|bidding]], [[announcements\|announcements]], or specialties are encountered.
+
+### General fundamental of counting the score
+When cards are counted, one must understand what a person has scored to write down onto the sheet of paper.
+
+#### Winning condition
+A player must achieve **at least 36 points** to consider the game a win.
+When the player has won, the **achieved score** is the **difference of 35 rounded to 5.**
+
+Example:
+> A player scores 40 points. That means they have won by the difference of 5, rounding it by 5, results into 5. $(40-35 = 5)$
+
+
+If the player achieves 36 or 37 points, **they have won without any difference** and get no points due to rounding. **38 points however, they win by the difference of 5.** 
+> **Warning:** achieving 35 points **does not** bring a win.
+
+| Score | $(n - 35)$ | Value |
+| ----- | ---------- | ----- |
+| 36    | 1          | 0     |
+| 37    | 2          | 0     |
+| 38    | 3          | 5     |
+| 41    | 6          | 5     |
+| 42    | 7          | 5     |
+| 43    | 8          | 10    |
+| 44    | 9          | 10    |
+
+
+
+#### Losing condition
+A player loses, if they do not achieve the threshold of at least 36 points.
+The player **does not** have to write any minus points, if they have not bid to play.
+However, a bid resulting in a loss, is the difference of 35 from what was the achieved score.
+
+Example:
+> A player has bid to play and lost by 20. That means they have lost by the difference of 15, on top of *x* bid.
+>  $(20 - 35)+(x + y)=-15+x$ *where $x$ is whatever bid amount was bet, and $y$ are the unachieved bonuses.*
+ 
 
 ## Two player game
 *In this game, the players do not use a [[Glossary#^786107\|Talon]], but 6 piles of cards that contain 4 cards each.*
@@ -74,19 +117,22 @@ Here, the player who was dealt has the right of way. They have a choice between:
 - Passing
 
 ### Bidding to play on first turn
-If the first player decided to bid **play,** they are **obligated to win and get at least 36 points.** if they **win,** their points are doubled. However, **losing** *(not getting at least 36 points)* the achieved points are **tripled,** and counted as **minus points.**
+If the first player decided to bid **play,** they are **obligated to win and get at least 36 points.** if they **win,** their points are doubled. **Losing** however, results in the achieved points being **tripled,** and counted as **minus points.**
 
->***note:*** *the points that player has achieved is the difference of 35.* 
-*Formula: **n - 35** (i.e. 44 - 35 = 9)*
+>*Formula: $(n-35)\times 2$ 
+>*note: before multiplying, the score is rounded to by 5.*
+>$(45-35)\times2=20$ 
 *if the player has not achieved the threshold, the total sum is tripled.*
-*Formula: **n** $\times$ 3*
+*Formula:* $(n-35)\times3$
+*note: same rule applies as before.*
+
 
 ### Passing
 If the first player decides to pass, the **dealers** has the same options as [[Basic information/Fundamentals of the game#Bidding to play on first turn\|mentioned above]].
 if the dealer also decides to **pass,** a normal game without any specific rules is played out.
-The winner is whoever achieves at least 35 points.
+The winner is whoever achieves at least 36 points.
 
->The worth of the points is unified. **no formula applies here.**
+>The worth of the points is [[Basic information/Fundamentals of the game#Winning condition\|default]]. **no bonuses apply here.**
 
 ### Playing phase
 After bidding concludes, both players turn **the first cards of their 3 piles around.**
@@ -105,5 +151,29 @@ Once the pile card has been played, the player has to turn around the new card o
 >you are not allowed to play the first card out of the pile, **unless you have no cards left in your hand.**
 
 
-
 ## Three player game
+Core game mechanics do not change from the previously explained two player game, but expands on it. Two key points are bidding, and using the [[Glossary#^786107\|Talon]]. 
+
+### Preparation
+First step is to shuffle the cards. After that, 6 cards are taken from the deck and put onto the middle to form our [[Glossary#^786107\|Talon]]. The rest of 48 cards are dealt to the players equally divided into 16 cards  $(48\div3=16)$. 
+Note: in case a player does not get a single Tarok in his set it must be immediately stated so that the game is reshuffled and re-dealt.
+
+Players have to agree on the flow of the game being either Clockwise or counter-clockwise from the dealer.
+
+## Contracts 
+*(Refer to [[Basic information/Contracts/Contracts\|Contracts]] and [[Basic information/Contracts/Detailed  description of the contracts\|Detailed  description of the contracts]] for further reference.)*
+
+Three player game use the following set of contracts:
+- [[Basic information/Contracts/Detailed  description of the contracts#Klop\|Klop]] *(negative game)*
+- [[Basic information/Contracts/Detailed  description of the contracts#Solo three, solo two, solo one:\|Solo three]]
+- [[Basic information/Contracts/Detailed  description of the contracts#Solo three, solo two, solo one:\|Solo two]]
+- [[Basic information/Contracts/Detailed  description of the contracts#Solo three, solo two, solo one:\|Solo one]]
+- [[Basic information/Contracts/Detailed  description of the contracts#Berač (Beggar)\|Berač]] *(negative game)*
+- [[Basic information/Contracts/Detailed  description of the contracts#Solo without\|Solo without]]
+- [[Basic information/Contracts/Detailed  description of the contracts#Valat\|Valat]]
+
+In three player game, declarer always plays alone against the other two players. The only exception is [[Basic information/Contracts/Detailed  description of the contracts#Klop\|Klop]] - leaving everyone to play for themselves.
+
+
+
+
